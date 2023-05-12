@@ -1,5 +1,6 @@
 {
   "name": "parada-web",
+  "homepage": "https://igniske.github.io/parada/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
